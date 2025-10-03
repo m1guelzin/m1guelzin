@@ -7,7 +7,6 @@
 
 <br> <br>
 
-<img src="https://static.vecteezy.com/ti/vetor-gratis/t1/11705592-fundo-de-de-ilustracao-de-desenvolvimento-de-back-end-de-integracao-de-servico-api-para-programacao-e-ciencia-da-computacao-vetor.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h3>
  📂 Introdução 
