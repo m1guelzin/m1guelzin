@@ -23,7 +23,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<h3 align="left">🦄 Desenvolvimento Frontend</h3>
+<h3 align="left">🖥️ Desenvolvimento Frontend</h3>
 <div align="left">
   <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/> HTML5</h4>
   <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/> CSS</h4>
@@ -35,7 +35,7 @@
 </div>
 <hr>
 
-<h3 align="left">🖥️ Backend</h3>
+<h3 align="left"></> Backend</h3>
 <div align="left">
   <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"/> Node.JS</h4>
   <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/> Docker</h4>
@@ -45,7 +45,7 @@
 
 <hr>
 
-<h3>🗂️ Controle de versão</h3>
+<h3>⚙️ Controle de versão</h3>
 <div align="left">
   <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/> Git</h4>
   <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"/> GitHub</h4>
@@ -53,7 +53,7 @@
 
 <hr>
 
-<h3>⚒️ Outras Ferramentas</h3>
+<h3>🛠 Outras Ferramentas</h3>
 <div align="left">
   <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"/> Postman</h4>
   <h4><img height="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"/> Visual Studio Code</h4>
@@ -61,7 +61,7 @@
 
 
 
-## 📧 Conecte-se comigo
+## 🔗 Conecte-se comigo
 
 <p align="center">
   <a href="www.linkedin.com/in/miguel-garrido-dev" target="_blank">
