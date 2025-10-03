@@ -1,5 +1,5 @@
 <!-- texto de apresentação -->
-<h1 align="center" style="display: inline-block"><b>Olá, eu sou Pedro de Paula </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center" style="display: inline-block"><b>Olá, eu sou Miguel Garrido de Souza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- divisor animado com gradiente -->
 <div align="center">
