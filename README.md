@@ -1,9 +1,8 @@
-
-<h1 align="center" style="display: inline-block"><b>Olá, eu sou Miguel Garrido de Souza </b></h1>
-
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+<h1 align="center" style="display: inline-block"><b>Olá, eu sou Miguel Garrido de Souza </b></h1>
 
 <br> <br>
 
