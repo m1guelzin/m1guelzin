@@ -1,7 +1,7 @@
-<img align="right" alt="Uma imagem de um notebook em ilustração vetorial" width="40%" src="https://w7.pngwing.com/pngs/650/298/png-transparent-front-end-web-development-web-developer-front-and-back-ends-software-developer-developer-gadget-electronics-web-application-thumbnail.png">
+<img align="right" alt="Uma imagem de um notebook em ilustração vetorial" width="40%" src="https://e7.pngegg.com/pngimages/380/586/png-clipart-front-and-back-ends-computer-icons-computer-software-software-development-sitespecific-recombinase-technology-text-logo-thumbnail.png">
 
 # Olá! Me chamo Miguel Garrido,
-tenho 18 anos Busco constantemente aprimorar minhas habilidades em tecnologias como HTML, CSS, JavaScript e React.
+tenho 18 anos Busco constantemente aprimorar minhas habilidades em tecnologias como JavaScript/Node.js, MySQL, React e Python.
 
 <br clear="both">
 
