@@ -5,8 +5,6 @@
 <h1 align="center" style="display: inline-block"><b>Olá, eu sou Miguel Garrido de Souza </b></h1>
 
 <br> <br>
-
-
 <h3>
  📂 Introdução 
 </h3>
